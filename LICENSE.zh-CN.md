@@ -10,6 +10,14 @@
 
 第三方资源按其单独标注的许可使用；维护者只在其有权授权的范围内提供许可，不代第三方授予版权、商标、肖像、隐私或其他未获授权的权利。
 
+### 当前鲸鱼娘改编资源
+
+[`characters/whale-girl/`](characters/whale-girl/README.md) 中的 4 张图片结合上善无形（上善）的鲸鱼娘原始角色形象、ZipZipPipe 加入 DeepSeek 元素的女仆鲸鱼娘二次设计，以及 YunYueSama 的 GitHub 项目 `codex-deepseek-pet` 中的 Q 版设定图参考进行改编，由 xiaoweigen 整理发布。本组改编贡献按 CC BY-NC-SA 4.0 发布；上游角色、前序设计与参考图的相关权利归相应权利人所有。
+
+分享本组资源及其演绎作品时，请保留 **上善无形、ZipZipPipe、YunYueSama、xiaoweigen** 的署名与改编记录，其中 YunYueSama 的署名须同时附上仓库地址 https://github.com/YunYueSama/codex-deepseek-pet 。上游作品、公开许可说明与每张图的修改范围见 [`NOTICE.md`](NOTICE.md) 和 [角色资源页](characters/whale-girl/README.md)。
+
+YunYueSama 对其有权授权的新增贡献采用《大肥鱼项目署名许可 1.0》，允许再许可，但要求保留作者、仓库地址、版权声明和完整许可文本。该上游许可及其第三方素材范围说明完整保存在 [`licenses/`](licenses/README.md)，仍适用于其相应贡献；本仓库 CC BY-NC-SA 4.0 声明适用于本组改编贡献，并保留上游义务。
+
 ## 授予的使用权
 
 在遵守 CC BY-NC-SA 4.0 的条件下，允许非商业目的的复制、分享、公开展示、修改、改编及二次创作。
