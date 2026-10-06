@@ -1,0 +1,9 @@
+* text=auto
+*.md text eol=lf
+LICENSE text eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.gif binary
+*.psd binary
