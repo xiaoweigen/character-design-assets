@@ -4,7 +4,7 @@
 
 | 角色资源 | 已收录内容 | 署名链 | 许可 |
 | --- | --- | --- | --- |
-| [大肥鱼／鲸鱼娘 · 改编设定图](whale-girl/README.md) | 基础造型、短裙古风、长袍古风六视图及女仆设定图，共 4 张 PNG | 上善无形 · ZipZipPipe · YunYueSama · xiaoweigen | 本组改编贡献 CC BY-NC-SA 4.0，保留上游署名与许可义务 |
+| [大肥鱼／鲸鱼娘 · 改编设定图](whale-girl/README.md) | 古风披发、古风盘髻、古风编发及基础造型六视图，共 4 张 PNG | 上善无形 · ZipZipPipe · YunYueSama · xiaoweigen | 本组改编贡献 CC BY-NC-SA 4.0，保留上游署名与许可义务 |
 
 每个角色建立一个独立文件夹，在其中放置图片及 `README.md`。角色说明可从 [`模板`](../templates/character.md) 复制填写。
 

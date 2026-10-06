@@ -8,9 +8,23 @@
 
 ## 当前内容
 
-已收录 [大肥鱼／鲸鱼娘 · 改编设定图](characters/whale-girl/README.md)：基础造型六视图、短裙古风版六视图、长袍古风版六视图、女仆版设定图，共 4 张原尺寸 PNG。
+已收录 [大肥鱼／鲸鱼娘 · 改编设定图](characters/whale-girl/README.md)：古风披发版、古风盘髻版、古风编发版及基础造型六视图，共 4 张原尺寸 PNG。
 
-<a href="characters/whale-girl/README.md"><img src="characters/whale-girl/images/maid-design-sheet.png" width="380" alt="大肥鱼／鲸鱼娘女仆版改编设定图预览"></a>
+### 古风披发版六视图
+
+![大肥鱼／鲸鱼娘古风披发版六视图](characters/whale-girl/images/hanfu-loose-hair-six-views.png)
+
+### 古风盘髻版六视图
+
+![大肥鱼／鲸鱼娘古风盘髻版六视图](characters/whale-girl/images/hanfu-bun-six-views.png)
+
+### 古风编发版六视图
+
+![大肥鱼／鲸鱼娘古风编发版六视图](characters/whale-girl/images/hanfu-braided-six-views.png)
+
+### 基础造型六视图
+
+![大肥鱼／鲸鱼娘基础造型六视图](characters/whale-girl/images/base-six-views.png)
 
 角色资源放在 [`characters/`](characters/README.md)，每个角色使用独立文件夹，并附上角色名称、作者、图片来源与许可说明。可使用 [`角色说明模板`](templates/character.md) 填写。
 

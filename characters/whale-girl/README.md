@@ -23,35 +23,35 @@ YunYueSama 对其项目新增贡献采用自定义署名许可，完整原文随
 
 | 图片 | 尺寸 | 本组改编内容 |
 | --- | --- | --- |
+| [古风披发版六视图](images/hanfu-loose-hair-six-views.png) | 1536 × 1024 | 浅色古风长袍、交领、腰间挂饰及蓝色披发，整理六个视角 |
+| [古风盘髻版六视图](images/hanfu-bun-six-views.png) | 1536 × 1024 | 浅色古风长袍、后脑盘髻、银色发簪与头饰线，整理六个视角 |
+| [古风编发版六视图](images/hanfu-braided-six-views.png) | 1448 × 1086 | 浅色古风长袍、横向编发、后脑发结、银色发簪与浅青灰垂带，整理六个视角 |
 | [基础造型六视图](images/base-six-views.png) | 1536 × 1024 | Q 版比例、蓝色长发和鲸尾造型，以白色基础服装展示正面、背面、左右侧与左右前 45° |
-| [短裙古风版六视图](images/hanfu-short-six-views.png) | 1536 × 1024 | 延续 Q 版造型，变更为浅色短裙古风服装，加入腰饰、流苏和凉鞋，整理六个视角 |
-| [长袍古风版六视图](images/hanfu-long-six-views.png) | 1024 × 1536 | 延续 Q 版造型，变更为浅色长袍、交领和腰间挂饰，整理六个视角 |
-| [女仆版设定图](images/maid-design-sheet.png) | 1055 × 1491 | 延续 DeepSeek 女仆设计进行 Q 版再创作，整理正侧背视图、发型、服装、细节及配色 |
 
-## 女仆版设定图
+## 古风披发版六视图
 
-![女仆版改编设定图，包含正侧背视图、服装细节及配色](images/maid-design-sheet.png)
+![古风披发版六视图](images/hanfu-loose-hair-six-views.png)
+
+## 古风盘髻版六视图
+
+![古风盘髻版六视图](images/hanfu-bun-six-views.png)
+
+## 古风编发版六视图
+
+![古风编发版六视图](images/hanfu-braided-six-views.png)
 
 ## 基础造型六视图
 
 ![基础造型六视图](images/base-six-views.png)
 
-## 短裙古风版六视图
-
-![短裙古风版六视图](images/hanfu-short-six-views.png)
-
-## 长袍古风版六视图
-
-![长袍古风版六视图](images/hanfu-long-six-views.png)
-
 ## 原始文件记录
 
 | 仓库文件 | 提交者提供的原始文件名 |
 | --- | --- |
-| `base-six-views.png` | ChatGPT 图像 2026年10月6日 23_57_12.png |
-| `hanfu-short-six-views.png` | ChatGPT 图像 2026年10月7日 00_11_42.png |
-| `hanfu-long-six-views.png` | ChatGPT 图像 2026年10月7日 00_40_10.png |
-| `maid-design-sheet.png` | ChatGPT 图像 2026年9月29日 10_42_31.png |
+| `hanfu-loose-hair-six-views.png` | ChatGPT 图像 2026年10月7日 01_05_30.png |
+| `hanfu-bun-six-views.png` | ChatGPT 图像 2026年10月7日 01_27_44.png |
+| `hanfu-braided-six-views.png` | ChatGPT 图像 2026年10月7日 01_43_06.png |
+| `base-six-views.png` | 2026年10月6日 23_57_12.png |
 
 图片来自提交者提供的 ChatGPT 图像文件。本次仓库整理仅更换文件名并补充署名、来源和许可说明，保留图片内容、格式与分辨率。
 
