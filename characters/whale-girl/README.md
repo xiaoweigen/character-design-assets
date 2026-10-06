@@ -1,4 +1,4 @@
-# 大肥鱼／鲸鱼娘 · 改编设定图
+# DeepSeek 大肥鱼／鲸鱼娘 · 改编设定图
 
 本组资源结合 **上善无形（上善）** 的鲸鱼娘原始角色形象、**ZipZipPipe** 的 DeepSeek 女仆鲸鱼娘二次设计，以及 **YunYueSama** 在 GitHub 发布的 Q 版设定图参考，由 **xiaoweigen** 进行 AI 辅助改编、造型变体与设定图整理。
 
@@ -23,10 +23,14 @@ YunYueSama 对其项目新增贡献采用自定义署名许可，完整原文随
 
 | 图片 | 尺寸 | 本组改编内容 |
 | --- | --- | --- |
+| [基础造型六视图](images/base-six-views.png) | 1536 × 1024 | Q 版比例、蓝色长发和鲸尾造型，以白色基础服装展示正面、背面、左右侧与左右前 45° |
 | [古风披发版六视图](images/hanfu-loose-hair-six-views.png) | 1536 × 1024 | 浅色古风长袍、交领、腰间挂饰及蓝色披发，整理六个视角 |
 | [古风盘髻版六视图](images/hanfu-bun-six-views.png) | 1536 × 1024 | 浅色古风长袍、后脑盘髻、银色发簪与头饰线，整理六个视角 |
 | [古风编发版六视图](images/hanfu-braided-six-views.png) | 1448 × 1086 | 浅色古风长袍、横向编发、后脑发结、银色发簪与浅青灰垂带，整理六个视角 |
-| [基础造型六视图](images/base-six-views.png) | 1536 × 1024 | Q 版比例、蓝色长发和鲸尾造型，以白色基础服装展示正面、背面、左右侧与左右前 45° |
+
+## 基础造型六视图
+
+![DeepSeek 大肥鱼／鲸鱼娘基础造型六视图](images/base-six-views.png)
 
 ## 古风披发版六视图
 
@@ -40,18 +44,14 @@ YunYueSama 对其项目新增贡献采用自定义署名许可，完整原文随
 
 ![古风编发版六视图](images/hanfu-braided-six-views.png)
 
-## 基础造型六视图
-
-![基础造型六视图](images/base-six-views.png)
-
 ## 原始文件记录
 
 | 仓库文件 | 提交者提供的原始文件名 |
 | --- | --- |
+| `base-six-views.png` | 2026年10月6日 23_57_12.png |
 | `hanfu-loose-hair-six-views.png` | ChatGPT 图像 2026年10月7日 01_05_30.png |
 | `hanfu-bun-six-views.png` | ChatGPT 图像 2026年10月7日 01_27_44.png |
 | `hanfu-braided-six-views.png` | ChatGPT 图像 2026年10月7日 01_43_06.png |
-| `base-six-views.png` | 2026年10月6日 23_57_12.png |
 
 图片来自提交者提供的 ChatGPT 图像文件。本次仓库整理仅更换文件名并补充署名、来源和许可说明，保留图片内容、格式与分辨率。
 

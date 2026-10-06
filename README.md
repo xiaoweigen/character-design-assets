@@ -1,6 +1,6 @@
-# 人物形象资源库
+# DeepSeek 大肥鱼／鲸鱼娘 · 人物形象资源库
 
-用于公开分享人物设定图、三视图、服装设定、表情设定及相关角色说明。
+公开分享 DeepSeek 社区拟人形象“大肥鱼／鲸鱼娘”的改编设定图、基础六视图、古风服装与发型设定，方便非商业二创和角色参考。本仓库为个人非官方资源库。
 
 **开放共享 · 允许非商业二创 · 不可商用 · 必须署名 · 二创同协议共享**
 
@@ -8,7 +8,11 @@
 
 ## 当前内容
 
-已收录 [大肥鱼／鲸鱼娘 · 改编设定图](characters/whale-girl/README.md)：古风披发版、古风盘髻版、古风编发版及基础造型六视图，共 4 张原尺寸 PNG。
+已收录 [DeepSeek 大肥鱼／鲸鱼娘 · 改编设定图](characters/whale-girl/README.md)：基础造型六视图、古风披发版、古风盘髻版及古风编发版，共 4 张原尺寸 PNG。
+
+### 基础造型六视图
+
+![DeepSeek 大肥鱼／鲸鱼娘基础造型六视图](characters/whale-girl/images/base-six-views.png)
 
 ### 古风披发版六视图
 
@@ -21,10 +25,6 @@
 ### 古风编发版六视图
 
 ![大肥鱼／鲸鱼娘古风编发版六视图](characters/whale-girl/images/hanfu-braided-six-views.png)
-
-### 基础造型六视图
-
-![大肥鱼／鲸鱼娘基础造型六视图](characters/whale-girl/images/base-six-views.png)
 
 角色资源放在 [`characters/`](characters/README.md)，每个角色使用独立文件夹，并附上角色名称、作者、图片来源与许可说明。可使用 [`角色说明模板`](templates/character.md) 填写。
 
