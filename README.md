@@ -1,6 +1,6 @@
 # DeepSeek 大肥鱼／鲸鱼娘 · 人物形象资源库
 
-公开分享 DeepSeek 社区拟人形象“大肥鱼／鲸鱼娘”的改编设定图、基础六视图、古风服装与发型设定，方便非商业二创和角色参考。本仓库为个人非官方资源库。
+公开分享 DeepSeek 社区拟人形象“大肥鱼／鲸鱼娘”（“吃白饭的蓝色大肥鱼”）的改编设定图、基础六视图、古风服装与发型设定，方便非商业二创和角色参考。本仓库为个人非官方资源库。
 
 **开放共享 · 允许非商业二创 · 不可商用 · 必须署名 · 二创同协议共享**
 
@@ -60,7 +60,7 @@ YunYueSama 的项目新增贡献按其自定义署名许可授权，使用时须
 
 以下示例中的内容请替换为所用资源的真实信息；有多位创作者或前序二创时，应保留相应署名和修改记录。
 
-> 《角色名称／作品名称》由「资源说明中列明的作者」创作，来源：原作品链接及 https://github.com/xiaoweigen/character-design-assets 。采用 CC BY-NC-SA 4.0，协议：https://creativecommons.org/licenses/by-nc-sa/4.0/ 。本次修改：无／具体修改说明。
+> 《角色名称／作品名称》由「资源说明中列明的作者」创作，来源：原作品链接及 https://github.com/xiaoweigen/deepseek-dafeiyu-assets 。采用 CC BY-NC-SA 4.0，协议：https://creativecommons.org/licenses/by-nc-sa/4.0/ 。本次修改：无／具体修改说明。
 
 ## 版权与收录
 
@@ -68,7 +68,7 @@ YunYueSama 的项目新增贡献按其自定义署名许可授权，使用时须
 
 除另有明确许可标注外，本仓库中由维护者或贡献者有权许可的人物设定图、相关美术资源及原创说明文档，均依 CC BY-NC-SA 4.0 发布。第三方资源须单独标明来源、作者、许可和适用范围，并遵守原有许可；本仓库不代第三方授予其未提供的权利。来源或授权不明确的素材不收录。
 
-投稿时请附上对应角色说明，并确认有权按所标明的许可分享资源。涉及二创时，保留原作及前序创作者的署名链。版权或来源问题可通过 [GitHub Issues](https://github.com/xiaoweigen/character-design-assets/issues) 反馈。
+投稿时请附上对应角色说明，并确认有权按所标明的许可分享资源。涉及二创时，保留原作及前序创作者的署名链。版权或来源问题可通过 [GitHub Issues](https://github.com/xiaoweigen/deepseek-dafeiyu-assets/issues) 反馈。
 
 ## 许可文件
 

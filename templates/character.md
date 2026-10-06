@@ -28,7 +28,7 @@
 
 本目录中上述明确授权的资源以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 发布：允许非商业分享和二创，必须保留署名、来源与协议链接，标明修改；公开分享演绎作品须按相同协议或协议允许的兼容许可发布。本协议不授予商业使用许可。
 
-完整许可见仓库根目录的 [`LICENSE`](https://github.com/xiaoweigen/character-design-assets/blob/main/LICENSE)。
+完整许可见仓库根目录的 [`LICENSE`](https://github.com/xiaoweigen/deepseek-dafeiyu-assets/blob/main/LICENSE)。
 
 ## 推荐署名
 

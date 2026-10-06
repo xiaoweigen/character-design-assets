@@ -59,6 +59,6 @@ YunYueSama 对其项目新增贡献采用自定义署名许可，完整原文随
 
 允许按 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 进行非商业分享和二创。公开分享时须保留 **上善无形、ZipZipPipe、YunYueSama、xiaoweigen** 的署名、来源、许可信息及前序修改记录，说明新增修改；演绎贡献须按相同协议或协议允许的兼容许可发布。本协议不授予商业使用许可。YunYueSama 的原有署名和完整许可保留义务一并适用。
 
-> 大肥鱼／鲸鱼娘改编设定图：原始角色形象「上善无形（上善）」；DeepSeek 女仆形象二次设计「ZipZipPipe」；Q 版设定图参考「YunYueSama」（仓库：https://github.com/YunYueSama/codex-deepseek-pet）；本组 AI 辅助改编与设定图整理「xiaoweigen」。来源：https://github.com/xiaoweigen/character-design-assets/tree/main/characters/whale-girl ，上游作品：https://www.pixiv.net/artworks/148186519 。本组改编贡献许可：CC BY-NC-SA 4.0（https://creativecommons.org/licenses/by-nc-sa/4.0/），保留 YunYueSama 原有署名与完整许可义务。本次新增修改：无／具体修改说明。
+> 大肥鱼／鲸鱼娘改编设定图：原始角色形象「上善无形（上善）」；DeepSeek 女仆形象二次设计「ZipZipPipe」；Q 版设定图参考「YunYueSama」（仓库：https://github.com/YunYueSama/codex-deepseek-pet）；本组 AI 辅助改编与设定图整理「xiaoweigen」。来源：https://github.com/xiaoweigen/deepseek-dafeiyu-assets/tree/main/characters/whale-girl ，上游作品：https://www.pixiv.net/artworks/148186519 。本组改编贡献许可：CC BY-NC-SA 4.0（https://creativecommons.org/licenses/by-nc-sa/4.0/），保留 YunYueSama 原有署名与完整许可义务。本次新增修改：无／具体修改说明。
 
 完整许可见 [`LICENSE`](../../LICENSE)，中文声明见 [`LICENSE.zh-CN.md`](../../LICENSE.zh-CN.md)，具体来源见 [`NOTICE.md`](../../NOTICE.md)。
