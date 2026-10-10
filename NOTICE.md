@@ -1,6 +1,6 @@
 # 鲸鱼娘资源署名与来源
 
-适用范围：[`characters/whale-girl/images/`](characters/whale-girl/images/) 中的 4 张 PNG 设定图及基于这些图片制作的演绎作品。
+适用范围：[根目录 `images/`](images/) 中的 6 张 PNG 设定图及基于这些图片制作的演绎作品。
 
 ## 署名链
 
@@ -11,7 +11,7 @@
 | YunYueSama | GitHub Q 版设定图参考与对应项目新增贡献 | [codex-deepseek-pet](https://github.com/YunYueSama/codex-deepseek-pet) |
 | xiaoweigen | 本组 AI 辅助改编、造型变体、设定图整理与发布 | [GitHub](https://github.com/xiaoweigen) |
 
-本组图片由 xiaoweigen 提交，提交者说明其结合上述角色、二次设计和 GitHub 设定图改编，并指出 YunYueSama 项目的 `design/character-sheet.png` 为参考来源。上游角色形象、设计及参考图的相关权利分别归相应权利人所有；本组改编贡献按 CC BY-NC-SA 4.0 发布。
+这组设定图由我（xiaoweigen）结合上述角色、二次设计和 GitHub 设定图参考继续改编，其中 Q 版设定图参考来自 YunYueSama 项目的 `design/character-sheet.png`。上游角色形象、设计及参考图的相关权利分别归相应权利人所有；本组改编贡献按 CC BY-NC-SA 4.0 发布。
 
 ## 上游作品与公开许可来源
 
@@ -19,9 +19,9 @@
 2. **ZipZipPipe《大AI和小AI们》**：[Bilibili 原视频](https://www.bilibili.com/video/BV1tE9XBbErS/)。作品简介说明鲸鱼娘基于上善无形的原创角色二创，并标注 CC BY-NC-SA 4.0、非商业使用与二创同协议共享。此处仅引用其形象来源与许可说明。
 3. **上善无形原作公开分享入口**：[b23.tv/Kn7yvnF](https://b23.tv/Kn7yvnF)。该入口由 ZipZipPipe 的上述作品说明提供；本次未直接读取原作者原帖全文，原作许可的记录依据为 ZipZipPipe 在原作品中的公开说明。
 4. **作者主页对应关系的辅助来源**：[蓝色大肥鱼档案馆 · 版权与来源](https://github.com/EDMOK/blue-fish-archive#版权与来源)。该社区整理列明上善无形的角色原作与 ZipZipPipe 的女仆二次设计，作为作者名称和主页入口的交叉核对。
-5. **YunYueSama 的 GitHub 设定图**：[character-sheet.png](https://github.com/YunYueSama/codex-deepseek-pet/blob/7661c8b304c5400701f91da01b1a643a207331de/design/character-sheet.png) 与 [character-standard.png](https://github.com/YunYueSama/codex-deepseek-pet/blob/7661c8b304c5400701f91da01b1a643a207331de/design/character-standard.png)。提交者通过仓库路径截图确认了设定图来源。本次核对该仓库的许可和素材范围说明，版本固定为 `7661c8b304c5400701f91da01b1a643a207331de`。
+5. **YunYueSama 的 GitHub 设定图**：[character-sheet.png](https://github.com/YunYueSama/codex-deepseek-pet/blob/7661c8b304c5400701f91da01b1a643a207331de/design/character-sheet.png) 与 [character-standard.png](https://github.com/YunYueSama/codex-deepseek-pet/blob/7661c8b304c5400701f91da01b1a643a207331de/design/character-standard.png)。该仓库的许可和素材范围说明按版本 `7661c8b304c5400701f91da01b1a643a207331de` 留存。
 
-以上是上游作品与许可的公开核对入口。本组实际图片为提交者提供的改编设定图，结合多份参考创作；这些入口记录上游来源与署名，不表示每张图片只参考了其中一份作品。
+这些链接记录上游作品、作者署名与许可来源。本组设定图结合多份参考继续创作，并非每张图片都只参考其中一份作品。
 
 ## YunYueSama 上游许可的保留
 
@@ -29,11 +29,12 @@ YunYueSama 对其有权授权的项目新增贡献采用《大肥鱼项目署名
 
 完整上游文本保存在 [`licenses/YunYueSama-ATTRIBUTION-1.0.txt`](licenses/YunYueSama-ATTRIBUTION-1.0.txt)，其原始素材范围说明保存在 [`licenses/YunYueSama-ASSET_LICENSE.md`](licenses/YunYueSama-ASSET_LICENSE.md)。这两份文件原样保存；其中原仓库相对链接的解释见 [`licenses/README.md`](licenses/README.md)。上游许可仅覆盖 YunYueSama 有权授权的新增贡献，底层第三方角色与参考作品仍按其各自授权使用。
 
-## 本次改编与整理
+## 改编内容
 
-- 结合上游角色与二次设计，形成 Q 版造型、古风披发版六视图、古风盘髻版六视图、古风编发版六视图及基础造型六视图。
-- AI 辅助情况：提交者提供的图片来自其 ChatGPT 图像文件，具体生成模型版本和提示词未记录。
-- 原始文件名及各图修改说明见 [角色资源页](characters/whale-girl/README.md)。仓库保存原尺寸 PNG，整理时仅更换文件名并补充说明。
+- Q 版基础六视图及古风披发、盘髻、编发三套六视图。
+- 佩剑版与长枪版角色设定：正侧背三视图，以及服装、发型、饰品和武器细节。
+- 使用 AI 辅助制作，具体生成模型版本和提示词未记录。
+- 原始文件名与图片尺寸见 [角色设定页](characters/whale-girl/README.md)。根目录 `images/` 保存原尺寸 PNG。
 
 ## 许可与转载署名
 
